@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     header: {
         fontSize: 44,
         textAlign: 'center',
-        color: 'red',
+        color: 'blue',
         marginTop: 30,
         textShadowColor: '#ffffff', // Shadow color
         textShadowOffset: { width: 2, height: 2 }, // Shadow offset
@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     },
     countMsg: {
         fontSize: 55,
-        color: 'red',
+        color: 'blue',
         textShadowColor: '#ffffff', // Shadow color
         textShadowOffset: { width: 2, height: 2 }, // Shadow offset
         textShadowRadius: 3, // Shadow blur radius
